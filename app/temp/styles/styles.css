@@ -463,6 +463,14 @@ img {
 .large-hero {
   position: relative;
 
+
+
+
+
+
+
+
+
 }
 
 .large-hero__text-content {
@@ -487,6 +495,16 @@ img {
     color: #2f5572;
     font-size: 2.9rem;
     margin: 0;
+  }
+
+.large-hero__description {
+    color: #FFF;
+    font-size: 1.875em;
+    font-weight: 100;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, .1);
+    max-width: 30rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 /*$mainBlue: #2f5572;*/
